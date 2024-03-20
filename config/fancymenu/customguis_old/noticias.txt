@@ -1,0 +1,3 @@
+identifier = noticias
+title = 
+allowesc = true

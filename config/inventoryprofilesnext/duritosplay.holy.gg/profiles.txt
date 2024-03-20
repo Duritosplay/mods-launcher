@@ -1,0 +1,32 @@
+
+
+
+
+profile Saved activate HOT5
+	HOT1
+		"bygonenether:wraither_spawn_egg"
+	HOT2
+		"bygonenether:wither_skeleton_knight_spawn_egg"
+	HOT3
+		"bygonenether:corpor_spawn_egg"
+	HOT5
+		"ftbquests:book"
+	HOT6
+		"minecraft:jukebox"
+	HOT7
+		"bygonenether:wither_waltz_music_disc"
+	HOT8
+		"minecraft:flint_and_steel"
+	HOT9
+		"minecraft:obsidian"
+
+profile Saved activate HOT3
+	HOT1
+		"ftbquests:book"
+	HOT2
+		"minecraft:chest"
+	HOT5
+		"minecraft:flint_and_steel"
+	HOT9
+		"lightmanscurrency:coin_iron"
+

@@ -1,0 +1,69 @@
+{
+    "net.minecraft.client.gui.screens.inventory.CreativeModeInventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 64
+            },
+            "SETTINGS": {
+                "top": 64
+            }
+        }
+    },
+    "net.minecraft.client.gui.screens.inventory.InventoryScreen": {
+        "buttonHints": {
+            "SHOW_EDITOR": {
+                "top": 100
+            },
+            "SETTINGS": {
+                "top": 100
+            },
+            "PROFILE_SELECTOR": {
+                "horizontalOffset": -60
+            }
+        }
+    },
+    "io.github.lightman314.lightmanscurrency.client.gui.screen.inventory.TraderScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30
+            },
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            },
+            "SHOW_EDITOR": {
+                "top": 80
+            },
+            "SETTINGS": {
+                "top": 80
+            }
+        }
+    },
+    "io.github.lightman314.lightmanscurrency.client.gui.screen.inventory.TraderStorageScreen": {
+        "buttonHints": {
+            "MOVE_TO_PLAYER": {
+                "horizontalOffset": 30
+            },
+            "SORT": {
+                "horizontalOffset": 30
+            },
+            "SORT_COLUMNS": {
+                "horizontalOffset": 30
+            },
+            "SORT_ROWS": {
+                "horizontalOffset": 30
+            },
+            "SHOW_EDITOR": {
+                "top": 90
+            },
+            "SETTINGS": {
+                "top": 90
+            }
+        }
+    }
+}
