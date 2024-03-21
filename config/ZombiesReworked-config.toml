@@ -1,0 +1,34 @@
+
+["AI Changes for the vanilla zombies"]
+	#Default true
+	"Should the zombies perform small leaps at the player?" = true
+	#Default true
+	"Should the zombies have accurate-melee range?" = true
+	#Default true
+	"Should zombies have upgraded armor and equipment and spawn with it less rarely?" = true
+	#Default true
+	"Should zombies perform small sprints when close to the player?" = true
+	#Default true
+	"Should zombies be faster when encountering the player at night time?" = true
+
+["Items that the zombies can use"]
+	#Default true
+	"Should the zombies use spyglasses?" = true
+	#Default true
+	"Should the zombies use ender pearls?" = true
+	#Default true
+	"Should the zombies use shields?" = true
+	#Default true
+	"Should the zombies use totems of undying?" = true
+	#Default true
+	"Should the zombies use flint and steels?" = true
+
+[Zombifications]
+	#Default true
+	"Should the player convert after getting killed by a zombie?" = true
+	#Default true
+	"Should the villager convert after getting killed by a zombie?" = true
+	#Default 0.2
+	#Range: 0.05 ~ 1.7976931348623157E308
+	"What should be the chance of the player/villager converting to a zombie/zombie villager when getting killed?" = 0.2
+
